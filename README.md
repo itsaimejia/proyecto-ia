@@ -5,5 +5,6 @@ Por medio de inferencia difusa se desarrollo un programa que calcule el procenta
 La entradas son:
 * edad
 * imc
+
 La salida:
 * procentaje de probabilidad de sufrir un paro cardiaco
